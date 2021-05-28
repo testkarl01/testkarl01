@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Link to 2 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-2)
-- Link to 2 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-3)
+- Link to 3 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-3)
 - Link to 5 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-5)
 - Link to 10 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-10)
 
