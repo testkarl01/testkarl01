@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Link to 2 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-2)
+Link to 2 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-3)
+Link to 5 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-5)
+Link to 10 [link](https://github.com/testkarl01/testkarl01/blob/main/README.md#link-10)
+
+
+
 ## Link 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum elit eget ligula ullamcorper hendrerit. Duis quam dolor, volutpat ut fringilla ac, placerat ac magna. Sed in leo sed erat mollis tincidunt. Duis viverra lacus in iaculis aliquam. Quisque semper congue tellus. Fusce blandit pulvinar rhoncus. Quisque sodales dapibus aliquam. Donec et maximus tellus, venenatis mollis erat. Pellentesque ut aliquet velit. Vivamus eu ante est. Nunc eget sem turpis. Vivamus nec lacus tempor, maximus velit in, congue ex. In lacinia mattis eros non volutpat. Aliquam erat volutpat. Integer aliquet tellus sed urna sagittis, vel sagittis eros dictum.
